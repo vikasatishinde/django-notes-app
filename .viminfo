@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1701938228,,"wq"
+|2,0,1701956898,,"wq"
 :wq!
 |2,0,1701938105,,"wq!"
 
@@ -27,20 +27,30 @@
 # Registers:
 
 # File marks:
-'0  4  13  ~/django-notes-app/docker-compose.yml
-|4,48,4,13,1701938228,"~/django-notes-app/docker-compose.yml"
+'0  1  0  ~/test2.html
+|4,48,1,0,1701956898,"~/test2.html"
 '1  4  13  ~/django-notes-app/docker-compose.yml
-|4,49,4,13,1701938105,"~/django-notes-app/docker-compose.yml"
-'2  4  12  ~/django-notes-app/docker-compose.yml
-|4,50,4,12,1701937913,"~/django-notes-app/docker-compose.yml"
+|4,49,4,13,1701938228,"~/django-notes-app/docker-compose.yml"
+'2  4  13  ~/django-notes-app/docker-compose.yml
+|4,50,4,13,1701938105,"~/django-notes-app/docker-compose.yml"
 '3  4  12  ~/django-notes-app/docker-compose.yml
 |4,51,4,12,1701937913,"~/django-notes-app/docker-compose.yml"
+'4  4  12  ~/django-notes-app/docker-compose.yml
+|4,52,4,12,1701937913,"~/django-notes-app/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  1  0  ~/test2.html
+|4,39,1,0,1701956898,"~/test2.html"
+-'  4  13  ~/django-notes-app/docker-compose.yml
+|4,39,4,13,1701938228,"~/django-notes-app/docker-compose.yml"
 -'  4  13  ~/django-notes-app/docker-compose.yml
 |4,39,4,13,1701938228,"~/django-notes-app/docker-compose.yml"
 -'  4  13  ~/django-notes-app/docker-compose.yml
 |4,39,4,13,1701938105,"~/django-notes-app/docker-compose.yml"
+-'  4  13  ~/django-notes-app/docker-compose.yml
+|4,39,4,13,1701938105,"~/django-notes-app/docker-compose.yml"
+-'  4  12  ~/django-notes-app/docker-compose.yml
+|4,39,4,12,1701937913,"~/django-notes-app/docker-compose.yml"
 -'  4  12  ~/django-notes-app/docker-compose.yml
 |4,39,4,12,1701937913,"~/django-notes-app/docker-compose.yml"
 -'  1  0  ~/django-notes-app/docker-compose.yml
@@ -49,8 +59,21 @@
 |4,39,1,0,1701937885,"~/django-notes-app/docker-compose.yml"
 -'  1  0  ~/django-notes-app/docker-compose.yml
 |4,39,1,0,1701937885,"~/django-notes-app/docker-compose.yml"
+-'  1  0  ~/django-notes-app/docker-compose.yml
+|4,39,1,0,1701937885,"~/django-notes-app/docker-compose.yml"
+-'  1  0  ~/django-notes-app/docker-compose.yml
+|4,39,1,0,1701937885,"~/django-notes-app/docker-compose.yml"
+-'  1  0  ~/django-notes-app/docker-compose.yml
+|4,39,1,0,1701937885,"~/django-notes-app/docker-compose.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/test2.html
+	*	1701956897	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/django-notes-app/docker-compose.yml
 	*	1701938224	0
