@@ -62,3 +62,70 @@ sudo docker login
 rm ~/.gitconfig
 suod su
 sudo su
+git init
+sudo apt install git
+git config user.name "vikas"
+git config --global user.name "vikas"
+git config --global user.email "vikas@gmail.com"
+git init
+git branch
+git add origin main https://github.com/vikasatishinde/django-notes-app.git
+git add origin master https://github.com/vikasatishinde/django-notes-app.git
+git branch
+git remote add origin master https://github.com/vikasatishinde/django-notes-app.git
+git branch
+git add
+git add .
+ls
+sudo apt install git
+git config --global user.name "vikas"
+git config --global user.email "vikas@gmail.com"
+git init
+git remote add origin master
+git remote add origin master https://github.com/vikasatishinde/django-notes-app.git
+git remote add origin https://github.com/vikasatishinde/django-notes-app.git
+git branch
+git remote -v
+git add .
+git commit -m "initial comment"
+git push origin main
+git push origin master
+git branch
+git checkout master
+git checkout main
+git remote -v
+git config --get-all credential.helper
+git credential-cache exit
+git credential-store --file ~/.git-credentials list
+git push origin master
+git init
+git remote add origin https://github.com/vikasatishinde/django-notes-app.git
+git remote -v
+git remote
+git remote set-url origin https://github.com/vikasatishinde/django-notes-app.git
+git remote remove origin
+git remote add origin git remote remove origin
+git remote add origin https://github.com/new-username/new-repo.git
+git remote add origin master git remote remove origin
+git remote add origin https://github.com/new-username/new-repo.git
+git remote remove origin
+git remote add origin https://github.com/new-username/new-repo.git
+git remote remove origin
+git remote set-url origin https://github.com/vikasatishinde/django-notes-app.git
+git remote add origin https://github.com/vikasatishinde/django-notes-app.git
+git add .
+git commit -m "initial commit"
+git push -u origin main
+git push -u origin master
+git branches
+git branch
+git checkout main
+git branch -a
+git branch main
+git branch -a
+git checkout main
+git branch
+git add .
+git commit -u "first commit"
+git commit -m "first commit"
+git push origin main
